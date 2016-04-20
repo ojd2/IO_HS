@@ -2,7 +2,7 @@
 
 Here is a copy of my first ever Haskell program. The program was built for educational purposes and therefore, I thought I should share it with the world. 
 
-"Type declarations in Haskell are optional: the compiler figures them out automatically, and only complains if they differ from what you've specified." - The following program refers to these specific topics and covers some simple IO syntax and the concept of a Monad in functional programming.
+"Type declarations in Haskell are open and accessible: the GHC figures and identifies type declarations automatically, and only throws errors if the type declaration is different from what's been declared." - The following program refers to these specific topics and covers some simple IO syntax and the concept of a Monad in functional programming.
 
 ### Contributions
 
