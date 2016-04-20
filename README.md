@@ -1,4 +1,4 @@
-# IO_HS
+# "Hello, Oliver!"
 
 Here is a copy of my first ever Haskell program. The program was built for educational purposes and therefore, I thought I should share it with the world. 
 
